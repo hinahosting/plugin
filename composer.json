@@ -2,6 +2,7 @@
     "name": "hina/plugin",
     "description": "Plugin Support",
     "type": "hina-module",
+    "license": "MIT",
     "authors": [
         {
             "name": "Jay Are Galinada",

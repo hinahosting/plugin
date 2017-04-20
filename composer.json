@@ -12,6 +12,9 @@
     "require": {
         "illuminate/support": "~5.4"
     },
+    "classmap": [
+        "src/migrations"
+    ],
     "autoload": {
         "psr-4": {
             "HinaPlugin\\Plugin\\": "src/Plugin/"
